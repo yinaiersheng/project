@@ -1,0 +1,26 @@
+ Thumbs.db
+
+/admin.php
+/index.php
+
+applicationadmin/cache/*
+
+applicationadmin/logs/*
+
+uploads/*
+
+application/config/database.php
+
+applicationadmin/config/database.php
+
+application/logs/*
+
+application/cache/*
+
+application/config/config.php
+
+applicationadmin/config/config.php
+
+
+.idea*
+.idea/*
